@@ -1,2 +1,4 @@
 # project-for-git
-this is github project
+this is project
+
+learning how to use git
